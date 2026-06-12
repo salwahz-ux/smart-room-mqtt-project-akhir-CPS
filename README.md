@@ -1,6 +1,11 @@
 # Smart Room Monitoring - MQTT System
 
 Sistem komunikasi berbasis MQTT untuk memantau kondisi ruangan secara real-time menggunakan Python dan Mosquitto Broker.
+## Dibuat Oleh
+Nama  : Salwa Hafizhah Zhahirah
+NIM   : 245150301111006
+Kelas : A
+Mata Kuliah : Cyber Physical System
 
 ## Teknologi yang Digunakan
 - Python 3.10+
